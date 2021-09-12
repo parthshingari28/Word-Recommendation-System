@@ -5,6 +5,10 @@ The explosive growth in the amount of available digital information and the numb
 So, Basically Recommendation system is a type of software that keeps feeding on users data to develop a trend for users preferences ,interests and usage behaviour of a particular software. There are six types of recommender systems which work primarily in the Media and Entertainment industry: Collaborative Recommender system and Content-based recommender system.
 Now if we come to the most basic use of recommendation system it would be word recommendation.
 
+## Types of Recommendation Systems 
+
+![types-recom-sys](https://github.com/parthshingari28/Word-Recommendation-System/blob/main/types_recommender.png)
+
 ## Problem Statement :~
 
 Our society in getting more and more advanced so, we require a software to type faster and effectively and also to find new words and learn them.
@@ -25,7 +29,15 @@ Phase5: Testing and running of project.
 
 This project discusses , how a recommendation system works using word recommendation system.
 
-We developed a Content Based Recommending System using C programming language to demonstrate the concepts of Word Prediction and Recommendation and how content based recommending system works.
+Developed a Content Based Recommending System using C programming language to demonstrate the concepts of Word Prediction and Recommendation and how content based recommending system works.
+
+## Flowchart:~
+
+![flowchart](https://github.com/parthshingari28/Word-Recommendation-System/blob/main/flowchart.png)
+
+## UI of Word Recommender Sys :~
+
+![ui](https://github.com/parthshingari28/Word-Recommendation-System/blob/main/user_interface.png)
 
 ## Algorithms used :~
 
